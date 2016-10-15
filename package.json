@@ -1,5 +1,5 @@
 {
-  "name": "gl-vec2",
+  "name": "gl-vec2-esm",
   "version": "1.0.0",
   "description": "gl-matrix's vec2, split into smaller pieces",
   "main": "index.js",

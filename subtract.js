@@ -1,4 +1,4 @@
-module.exports = subtract
+export default subtract
 
 /**
  * Subtracts vector b from vector a

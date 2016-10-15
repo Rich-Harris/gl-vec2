@@ -1,4 +1,4 @@
-module.exports = fromValues
+export default fromValues
 
 /**
  * Creates a new vec2 initialized with the given values

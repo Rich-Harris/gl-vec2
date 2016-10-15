@@ -1,4 +1,4 @@
-module.exports = divide
+export default divide
 
 /**
  * Divides two vec2's

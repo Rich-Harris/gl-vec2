@@ -1,3 +1,18 @@
+# gl-vec2-esm
+
+[gl-vec2](https://github.com/stackgl/gl-vec2) ported to ES modules, so that you can do this sort of thing...
+
+```js
+import * as vec2 from 'gl-vec2-esm';
+
+const normalized = vec2.normalize(...);
+```
+
+...and take advantage of tree-shaking via Rollup and Webpack 2, rather than having to have a separate `require` statement for each module.
+
+----
+
+
 # gl-vec2
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)

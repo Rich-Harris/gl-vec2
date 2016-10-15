@@ -1,4 +1,4 @@
-module.exports = dot
+export default dot
 
 /**
  * Calculates the dot product of two vec2's

@@ -1,4 +1,4 @@
-module.exports = distance
+export default distance
 
 /**
  * Calculates the euclidian distance between two vec2's
